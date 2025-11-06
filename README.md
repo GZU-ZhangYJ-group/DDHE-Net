@@ -34,6 +34,8 @@ CUDA_VISIBLE_DEVICES=0 python main.py --mode train --data_dir your_dataset_path/
 cd OTS
 CUDA_VISIBLE_DEVICES=0 python main.py --mode train --data_dir your_dataset_path/reside-outdoor
 ~~~
+### Download Pre-trained Models
+- [Download](https://drive.google.com/drive/folders/1yZ7s2Wxp7kDLFNQiVuFIVQXidiwP3cIt?usp=sharing)
 ### Testing on SOTS-Indoor:
 ~~~
 cd ITS
